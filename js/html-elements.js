@@ -5,4 +5,4 @@ const elContainer = document.getElementById("container"),
   elTabThree = document.getElementById("tabThree"),
   elTabFour = document.getElementById("tabFour");
 
-export { elContainer, elLoader,elTabOne,elTabSecond,elTabThree,elTabFour };
+export { elContainer, elLoader, elTabOne, elTabSecond, elTabThree, elTabFour };
